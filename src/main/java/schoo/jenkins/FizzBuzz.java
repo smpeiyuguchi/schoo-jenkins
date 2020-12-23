@@ -1,5 +1,6 @@
 package schoo.jenkins;
 
+
 public class FizzBuzz {
     public String execute(int value) {
         if (value % 15 == 0) {
